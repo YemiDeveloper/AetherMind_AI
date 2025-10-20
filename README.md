@@ -1,6 +1,6 @@
-# 🏢 Starboard Deal Overview App
+# 🏢 AestherMind Overview App
 
-This is a full-stack Next.js app for extracting key deal insights from real estate Offering Memorandum (OM) PDFs. Upload a PDF and the app will parse and display property details like square footage, tenant, lease terms, financing info, and more — all in a clean, responsive UI.
+This is a full-stack app developed using TypeScript, for extracting key deal insights from real estate Offering Memorandum (OM) PDFs. Upload a PDF and the app will parse and display property details like square footage, tenant, lease terms, financing info, and more — all in a clean, responsive UI.
 
 ---
 
