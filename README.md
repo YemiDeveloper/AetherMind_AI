@@ -22,8 +22,9 @@ npm run dev
 Then open http://localhost:3000 in your browser.
 
 🧠 Features
-Upload any OM PDF
 
+Upload any OM PDF
 Extracts and displays: Property name and location, Square footage, Lease terms, Financing details, Tenant info, Net Operating Income (NOI), Credit rating and highlights, Responsive layout with Tailwind CSS and ShadCN, Clean modal-based upload experience.
 
 ![UI Overview](public/images/Screenshot%202025-10-21%20003310.png)
+
